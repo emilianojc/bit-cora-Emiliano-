@@ -21,6 +21,9 @@ Por otro lado el profesor tambien nos mostro distintos referentes para poder int
 ## Referentes 
 
 ## Encargo 01
+En este primer encargo el profesor nose pidio incluir un referente de nuestro interes que se relacione que aspectos que queremos trabajar en el curso. Investigando y buscando en disversas paginas encontre en <https://proyectoidis.org/bill-posters/> al artista Bill Posters, quien trabaja con la investigacion de la desinformacion, custionando esta misma 
+
+
 
 
 ## Encargo 02
