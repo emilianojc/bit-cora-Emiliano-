@@ -20,3 +20,7 @@ Podemos agregar bloques donde iran los codigos
 Por otro lado el profesor tambien nos mostro distintos referentes para poder introducir el curso y poder relacionarlo con la practica artistica y con las sencibilidades que esta requiere.
 ## Referentes 
 
+## Encargo 01
+
+
+## Encargo 02
