@@ -21,7 +21,7 @@ Podemos agregar bloques en donde se distinguen los codigos de lo que vamos escri
 Por otro lado el profesor tambien nos mostro distintos referentes para poder introducir el curso y poder relacionarlo con la practica artistica y con las sencibilidades que esta requiere.
 ## Referentes 
 
-Entre todos los referentes presentados en esta clase me llamo la atencion una pagina que explica el Arte por computadora de los años 50 y 60 [Early Computer Art in the 50’s & 60’s]<https://www.amygoodchild.com/blog/computer-art-50s-and-60s>. En esta pagina es un articulo en donde explican el desarrollo del arte por computadora entre los 50 y 60
+Entre todos los referentes presentados en esta clase me llamo la atencion una pagina que explica el Arte por computadora de los años 50 y 60 [Early Computer Art in the 50’s & 60’s]<https://www.amygoodchild.com/blog/computer-art-50s-and-60s>  . En esta pagina es un articulo en donde explican el desarrollo del arte por computadora entre los 50 y 60
 
 ## Encargo 01
 En este primer encargo el profesor nose pidio incluir un referente de nuestro interes que se relacione que aspectos que queremos trabajar en el curso. Investigando y buscando en disversas paginas encontre en <https://proyectoidis.org/bill-posters/> al artista Bill Posters, quien trabaja con la investigacion de la desinformacion, custionando esta misma 
