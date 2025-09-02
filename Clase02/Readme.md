@@ -18,8 +18,45 @@ Cada linea se cierra con un punto y como (;)
 
 ## Variables 
 
-Las variables son numeros o datos 
+Las variables son numeros o datos que guardan informacion. 
 
 Para crarlas primero debemos definir el TIPO de variable. El tipo de variable es un contenedor 
 
 Para crear caracteres uso la variable de tipo (char)
+La sintaxis de los char nos obliga a utilizar las comillas simples ''
+
+![ ]()
+
+Los char no me sirve para los numeros 
+
+![ ]()
+
+## Para los numeros existen las variables:
+
+int para los numeros enteros
+
+![ ]()
+
+![ ]()
+
+El tipo de VARIABLE se declara solo UNA vez 
+
+![ ]()
+
+En processing y en otros programas de programcion la consola considera las ultimas lineas como validas 
+
+![ ]()
+
+float para los numeros desimales 
+En terminos de computacion los float ocupan mas espacio. 
+
+![ ]()
+
+Uno puede convertir float en int 
+Con la FUNCION int() le quito los desimales al numero de la FUNCION float
+
+![ ]()
+
+SAltos de linea 
+
+![ ]()
