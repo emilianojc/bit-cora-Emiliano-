@@ -59,4 +59,72 @@ Con la FUNCION int() le quito los desimales al numero de la FUNCION float
 
 SAltos de linea 
 
-![salto de linea](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase02/saltos%20de%20linea%20.png)
+```
+println(); // salto de linea facil 
+print("\n"); //salto de linea dificil
+```
+
+## Graficacion basica en processing 
+
+Para graficar en procesing tenemos el "sketch" que es la hoja en blanco que funciona igual que un plano cartesiano, utilizando el eje X y el eje Y.
+
+Lo principal que debe tener el canvas es:
+
+```
+void setup(){
+}
+
+void draw(){
+}
+```
+
+En "void setup()" se colocan aquellas funciones que no se quieren modificar como por ejemplo el tamaño y color del lienzo (size)(backgraund)
+
+En el "void draw()" se colocan aquellas funciones en donde se puede hacer una iteracion. 
+
+Las variables se suelen crear antes del "setup" 
+
+Si la variable se declara fuera del "setup" se le llama variable global 
+
+
+Para ajustar el tamaño del lienzo:
+
+```
+size(x,y);
+```
+
+Definir el color de fondo:
+
+Si utilizamos solo un numero, el color de fonde se presenta en escala de grices.
+
+Si utilizamos los numeros de segun (R,G,B) tendremos variedad de colores. 
+
+```
+backgroun(N°);
+backgroun(R,G,B);
+```
+
+Para hacer una linea debemos:
+
+```
+line(x1,y1,x2,y2);
+```
+
+Para incluir texto en el canvas se utiliza la funcion:
+
+```
+text("texto que se quiere escribir", x,y);
+```
+
+Para ajustar el tamaño del texto se debe realizar la siguiente funcion antes que la funcion "text"
+
+```
+textSize(N°);
+```
+
+Parra rellenar el color de un texto o una figura utilizamos la funcion:
+
+```
+fill(N°);
+```
+
