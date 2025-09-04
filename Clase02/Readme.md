@@ -82,7 +82,7 @@ En "void setup()" se colocan aquellas funciones que no se quieren modificar como
 
 En el "void draw()" se colocan aquellas funciones en donde se puede hacer una iteracion. 
 
-Las variables se suelen crear antes del "setup" 
+**Las variables se suelen crear antes del "setup"**
 
 Si la variable se declara fuera del "setup" se le llama variable global 
 
@@ -128,3 +128,40 @@ Parra rellenar el color de un texto o una figura utilizamos la funcion:
 fill(N°);
 ```
 
+La funcion (frameCount) ayuda a visualizar los frame por segundo 
+
+```
+frameCount 
+```
+
+Se uede cambiar el (frameRate) se puede cambiar en el (setup) y es por defecto 60 pero se puede cambiar 
+
+```
+frameRate(N°);
+```
+
+## **LAS PRIMITIVAS**
+
+Triangulo 
+
+```
+triangle(x1, y1, x2, y2, x3, y3);
+```
+
+Cuadrado 
+
+```
+rect(a, b, c, d)
+```
+
+Circulo u ovalo 
+
+```
+ellipse(a, b, c, d)
+```
+
+Cambio el color del fondo con el mause
+
+```
+mouseX
+```
