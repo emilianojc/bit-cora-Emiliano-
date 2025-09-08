@@ -89,3 +89,53 @@ void loop()
   delay(tiempoOff);
 }
 ```
+
+## **Aplicancion de codigo morse con Arduino**
+
+La letra a en codigo morse es .-
+
+```
+int ledPin = 13;
+//tiempos
+int tiempoPunto = 100;
+int separador = 50;
+int tiempoRaya = 500;
+int finCaracter = 100;
+
+void setup()
+{
+    pinMode(ledPin,OUTPUT);
+    //9600 es el baud rate
+    //o tasa de baudios
+    Serial.begin(9600);
+}
+
+void loop()
+{
+    //la A en morse .-
+    //prendemos el punto
+    digitalWrite(ledPin,HIGH);
+    Serial.println("punto");
+    //esperamos el punto encendido
+    delay(tiempoPunto);
+    //apagamos el punto
+    digitalWrite(ledPin,LOW);
+    //el espacio despues del punto
+    delay(separador);
+    
+    //empezamos una raya
+    digitalWrite(ledPin,HIGH);
+    Serial.println("raya");
+    //espero el tiempo de la raya
+    delay(tiempoRaya);
+    //apagamos la raya
+    digitalWrite(ledPin,LOW);
+    
+    //cerramos el caracter
+    delay(finCaracter);
+}
+```
+
+# **Encargo de la clase**
+
+Escribir la frase con la que estamos trabajando en codigo morse en el arduino 
