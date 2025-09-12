@@ -90,6 +90,8 @@ void loop() {
 }
 ```
 
+![CircuitoPantallaOled](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase05/Clase05/circuitoPantallaOled.jpg)
 
+![PantallaOled](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase05/Clase05/PantallaOled.jpg)
 
-![Apuntes de mi cuaderno](ubicacionde la foto.jpg)
+![Apuntes de mi cuaderno]([ubicacionde la foto.jpg](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase05/Clase05/apuntesCuaderno.jpg))
