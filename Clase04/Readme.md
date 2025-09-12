@@ -4,7 +4,7 @@
 
 La protoboard interconecta 6 secciones con 2 estructuras distintas. Las dos lineas superiores y las dos inferiores se conectan de manera horizontal, mientras que las secciones de en medio se conectan de manera vertical 
 
-![Protoboard]()
+![Protoboard](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase04/Clase04/Protoboard%20y%20sus%20partes.png)
 
 
 * Las resistencias estan echas de carbon(un material resistivo), y segun la cantidad que contengan es el valor que tienen cada resistencia 
@@ -14,7 +14,7 @@ La protoboard interconecta 6 secciones con 2 estructuras distintas. Las dos line
 Un potenciometro es una maquina que tiene carbon en su interior distribuido de manera circular y su perilla funciona como un reloj. 
 El potenciometro es una resistencia variable 
 
-![Potenciometro]()
+![Potenciometro](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase04/Clase04/Potenciometro.jpg)
 
 ### **Nuevo codigo (Potenciometro)**
 
@@ -42,7 +42,7 @@ void loop() {
 }
 ```
 
-![HolaTuprimer codigo]()
+![HolaTuprimer codigo](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase04/Clase04/HolaTuprimer%20codigo.png)
 
 2. Creacion de una variable en donde se guardara aquello que esta midiendo el potenciometro. 
 Iniciandola en 0 
@@ -73,7 +73,7 @@ void loop() {
 }
 ```
 
-![Consola primer codigo]()
+![Consola primer codigo](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase04/Clase04/Nomeros%20potenciometroPrimer%20codigo.png)
 
 3. codigo para cambiar las variables 
 
