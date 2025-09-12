@@ -30,8 +30,6 @@ Es una organización fundada por Evan Roth y James Powderly, es un grupo de arte
 Eye Writer es la próxima generación de su sistema Laser Tag. Este sistema les ayudo a tener reconocimiento internacional por primera vez. Usando una interfaz de seguimiento ocular, el usuario puede escribir o dibujar en la superficie de un edificio simplemente mirándolo. Eye Writer se desarrolló por primera vez como una herramienta para permitir que el legendario artista de graffiti de Los Ángeles Tempt, que ha quedado paralizado por la ELA, continúe produciendo.
 El Laboratorio de Investigación de Graffiti se encuentra actualmente en Free Art and Technology Lab (también conocido como FAT Lab), un laboratorio de investigación sin fines de lucro que apoya a artistas, ingenieros, diseñadores y animadores cuyo trabajo enriquece directamente el dominio público.
 
-![Graffiti Research Lab](https://github.com/emilianojc/bit-cora-Emiliano-/blob/main/Clase%2001/Hell's_Kitchen_-_Flickr_-_urban_data.jpg)
-
 ## Encargo 02 (Escrito)
 
 Verso de Nicanor Parra
